@@ -4,7 +4,7 @@
 
 Built with the **MERN stack** (MongoDB, Express, React, Node.js), plus a small Flask service for the chatbot.
 
----
+------
 
 ## ✨ Features
 
