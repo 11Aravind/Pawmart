@@ -178,7 +178,7 @@ Base URL: `http://localhost:5001`
 
 For **Cash on Delivery**, the frontend calls `POST /api/order/cod` and the order is saved directly.
 
----
+-------
 
 ## 🗂️ Data models
 
